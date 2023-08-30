@@ -1,4 +1,4 @@
-package com.mydeveloperplanet.myawscdplanet;
+package com.test.myawscdplanet;
 
 import org.hamcrest.Matcher;
 import org.hamcrest.Matchers;
